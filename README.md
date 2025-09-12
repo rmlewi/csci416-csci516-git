@@ -6,5 +6,5 @@ The notebooks are in two forms.
 
 There are also source code files.
 
-If you want to run the notebooks on your computer you will need to install a Jupyter Python kernel.  I use [this one](https://github.com/takluyver/bash_kernel).
+If you want to run the notebooks on your computer you will need to install a Jupyter Python kernel.
 
